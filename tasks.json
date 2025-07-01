@@ -1,0 +1,20 @@
+[
+    {
+        "title": "ASSIGNMENT SUBMISSION",
+        "due_date": "2025-07-12",
+        "category": "STUDIES",
+        "completed": false
+    },
+    {
+        "title": "FINISH SYLLABUS",
+        "due_date": "2025-07-01",
+        "category": "STUDIES",
+        "completed": true
+    },
+    {
+        "title": "COMPLETE SYLLABUS",
+        "due_date": "2025-07-03",
+        "category": "STUDIES",
+        "completed": false
+    }
+]
